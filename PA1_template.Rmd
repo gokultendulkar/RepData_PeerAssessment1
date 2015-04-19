@@ -4,6 +4,10 @@
 
 For this assignment, the first step is to load the data file “activity.csv” by read.csv
 
+```{r setoptions,echo=TRUE}
+
+```
+
 Download, unzip and load data into data frame data.
 
 ```{r}
